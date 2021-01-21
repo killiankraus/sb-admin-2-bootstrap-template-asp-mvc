@@ -32,7 +32,7 @@ body {
 }
 
 .navbar-top-links li {
-    display: inline-block;
+    display: none;
 }
 
 .navbar-top-links li:last-child {
@@ -351,4 +351,36 @@ table.dataTable thead .sorting:after {
 
 .panel-yellow a:hover {
     color: #df8a13;
+}
+
+
+a.active{
+    color:red;
+    background-color: black;
+}
+
+.nav > li > a:hover {
+    color: red;
+    background-color: #FCC;
+}
+
+.card {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #e3e6f0;
+    border-radius: .35rem;
+    padding: 15px;
+}
+
+.shadow {
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15) !important;
+}
+
+.modal-content{
+    padding: 20px;
 }

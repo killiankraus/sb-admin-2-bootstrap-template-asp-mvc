@@ -24,3 +24,35 @@ C:\Users\Luis\Documents\Visual Studio 2013\Projects\sb-admin-2.Web\sb-admin-2.We
 C:\Users\Luis\Documents\Visual Studio 2013\Projects\sb-admin-2.Web\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.csprojResolveAssemblyReference.cache
 C:\Users\Luis\Documents\Visual Studio 2013\Projects\sb-admin-2.Web\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.dll
 C:\Users\Luis\Documents\Visual Studio 2013\Projects\sb-admin-2.Web\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.pdb
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\sb-admin-2.Web.dll.config
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\sb-admin-2.Web.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\sb-admin-2.Web.pdb
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\Antlr3.Runtime.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\Newtonsoft.Json.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Helpers.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Mvc.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Optimization.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Razor.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\WebGrease.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Helpers.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Mvc.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Optimization.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.Razor.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\Antlr3.Runtime.pdb
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\Newtonsoft.Json.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.csprojAssemblyReference.cache
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.csproj.CoreCompileInputs.cache
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.csproj.CopyComplete
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\obj\Debug\sb-admin-2.Web.pdb
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\EntityFramework.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\EntityFramework.xml
+C:\Users\killiankraus\Documents\GitHub\sb-admin-2-bootstrap-template-asp-mvc\sb-admin-2.Web\bin\EntityFramework.SqlServer.xml

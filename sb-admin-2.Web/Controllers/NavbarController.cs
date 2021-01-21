@@ -13,7 +13,7 @@ namespace sb_admin_2.Web.Controllers
         // GET: Navbar
         public ActionResult Index()
         {
-            var data = new Data();            
+            var data = new Data();
             return PartialView("_Navbar", data.navbarItems().ToList());
         }
     }
